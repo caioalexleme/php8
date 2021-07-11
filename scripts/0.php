@@ -1,0 +1,3 @@
+<?php
+
+// código de php
